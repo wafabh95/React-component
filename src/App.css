@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+img{
+  padding: 30px;
+margin-bottom: 50px;
+  width: 180px;
+  height: 180px;
+
+}
+.full{
+  text-transform: capitalize;
+  
+ font-family: Dancing Script;
+ padding: 30px;
+  
+}
+.profile{
+  background-color:beige;
+  height: 100vh;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
